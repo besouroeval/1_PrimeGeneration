@@ -12,9 +12,9 @@ public class PrimeGenerator {
 		}
 		
 		
-		for (int m=0; m<i ; m++) {
+		for (int m=0; m<primesList.size(); m++) {
 			Integer num = primesList.get(m);
-			for (int n=2; n*num<i ; n++) {
+			for (int n=2; n*num<primesList.size() ; n++) {
 				primesList.remove(new Integer(n*num));
 			}
 		}
