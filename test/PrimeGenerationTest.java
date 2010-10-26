@@ -13,7 +13,7 @@ public class PrimeGenerationTest {
 	
 	@Test
 	public void shouldGenerateUpTo2() {
-		int[] primes = PrimeGenerator.generate(1);
+		int[] primes = PrimeGenerator.generate(2);
 		Assert.assertEquals(0, primes.length);
 	}
 }
