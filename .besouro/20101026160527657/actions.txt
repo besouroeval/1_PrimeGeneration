@@ -131,3 +131,6 @@ UnitTestSessionAction 1288117254268 PrimeGenerationTest.java OK
 EditAction 1288117264232 PrimeGenerationTest.java 1566 7 23 14
 EditAction 1288117266524 PrimeGenerationTest.java 1534 7 22 14
 EditAction 1288117268065 PrimeGenerationTest.java 1531 7 22 14
+UnitTestCaseAction 1288117270146 PrimeGenerationTest.java OK
+UnitTestSessionAction 1288117270146 PrimeGenerationTest.java OK
+EditAction 1288117284665 PrimeGenerationTest.java 1338 7 18 10
