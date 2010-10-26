@@ -7,8 +7,7 @@ public class PrimeGenerationTest {
 
 	@Test
 	public void shouldGenerateUpTo1() {
-		Integer[] primes = PrimeGenerator.generate(1);
-		Assert.assertEquals(0, primes.length);
+		verifyGeneration(1, new int[]{});
 	}
 	
 	@Test
