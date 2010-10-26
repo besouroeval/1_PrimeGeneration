@@ -16,6 +16,7 @@ public class PrimeGenerationTest {
 		verifyGeneration(7, new int[]{2,3,5,7});
 		verifyGeneration(8, new int[]{2,3,5,7});
 		verifyGeneration(9, new int[]{2,3,5,7});
+		verifyGeneration(10, new int[]{2,3,5,7});
 	}
 
 	private void verifyGeneration(int i, int[] expected) {
