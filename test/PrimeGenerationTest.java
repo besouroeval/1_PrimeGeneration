@@ -13,9 +13,7 @@ public class PrimeGenerationTest {
 	
 	@Test
 	public void shouldGenerateUpTo2() {
-		Integer[] primes = PrimeGenerator.generate(2);
-		Assert.assertEquals(1, primes.length);
-		Assert.assertEquals(2, primes[0].intValue());
+		verifyGeneration(2, new int[]{2});
 	}
 	
 	@Test

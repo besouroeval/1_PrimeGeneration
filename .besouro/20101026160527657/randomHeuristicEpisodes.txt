@@ -16,4 +16,5 @@
 1288117254268 refactoring null 4 true
 1288117270146 refactoring 1A 5 true
 1288117286874 refactoring 1A 2 true
-1288117297974 refactoring 1A 2 false
+1288117297974 refactoring 1A 2 true
+1288117312799 refactoring 1A 2 true
