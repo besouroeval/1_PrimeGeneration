@@ -16,7 +16,6 @@ public class PrimeGenerator {
 			Integer num = primesList.get(m);
 			for (int n=2; n*num<primesList.size() ; n++) {
 				primesList.remove(new Integer(n*num));
-				m--;
 			}
 		}
 		
