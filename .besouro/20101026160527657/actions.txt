@@ -27,3 +27,6 @@ RefactoringAction 1288116491807 PrimeGenerationTest.java ADD void shouldGenerate
 EditAction 1288116494628 PrimeGenerationTest.java 363 2 4 2
 EditAction 1288116498190 PrimeGenerationTest.java 363 2 4 2
 EditAction 1288116509917 PrimeGenerationTest.java 400 2 5 3
+UnitTestCaseAction 1288116513844 PrimeGenerationTest.java FAIL
+UnitTestSessionAction 1288116513844 PrimeGenerationTest.java FAIL
+EditAction 1288116549068 PrimeGenerator.java 127 1 2 0
