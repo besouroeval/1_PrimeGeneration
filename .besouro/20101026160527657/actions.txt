@@ -1,0 +1,9 @@
+RefactoringAction 1288116351403 PrimeGenerationTest.java ADD PrimeGenerationTest.java CLASS
+FileOpenedAction 1288116352693 PrimeGenerationTest.java 39 0 0 0
+RefactoringAction 1288116359744 PrimeGenerationTest.java ADD void test FIELD
+RefactoringAction 1288116368255 PrimeGenerationTest.java RENAME test=>void shouldGenerate FIELD
+RefactoringAction 1288116381275 PrimeGenerationTest.java RENAME shouldGenerate=>void shouldGenerateUpTo FIELD
+RefactoringAction 1288116385787 PrimeGenerationTest.java RENAME shouldGenerateUpTo=>void shouldGenerateUpTo1 FIELD
+RefactoringAction 1288116386799 PrimeGenerationTest.java RENAME shouldGenerateUpTo1=>void shouldGenerateUpTo1() METHOD
+RefactoringAction 1288116393525 PrimeGenerationTest.java ADD import org.junit.Test IMPORT
+EditAction 1288116394491 PrimeGenerationTest.java 115 1 0 0
