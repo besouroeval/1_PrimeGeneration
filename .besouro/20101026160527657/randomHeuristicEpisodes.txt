@@ -11,4 +11,5 @@
 1288117067102 test-first 3 20 true
 1288117083216 refactoring 2A 2 true
 1288117099097 regression 1 0 true
-1288117187378 refactoring 1A 47 false
+1288117187378 refactoring 1A 47 true
+1288117235005 refactoring 1A 19 false

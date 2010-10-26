@@ -49,6 +49,10 @@ public class PrimeGenerationTest {
 		int i = 6;
 		int[] expected = new int[]{2,3,5};
 		
+		verifyGeneration(i, expected);
+	}
+
+	private void verifyGeneration(int i, int[] expected) {
 		Integer[] primes = PrimeGenerator.generate(i);
 		Assert.assertEquals(expected.length, primes.length);
 		for (int n = 0 ; n<expected.length ; n++)

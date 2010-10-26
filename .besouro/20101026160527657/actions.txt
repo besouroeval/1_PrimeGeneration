@@ -122,3 +122,7 @@ EditAction 1288117215865 PrimeGenerationTest.java 1472 6 23 14
 UnitTestCaseAction 1288117219195 PrimeGenerationTest.java FAIL
 UnitTestSessionAction 1288117219196 PrimeGenerationTest.java FAIL
 EditAction 1288117232689 PrimeGenerationTest.java 1486 6 23 14
+UnitTestCaseAction 1288117235005 PrimeGenerationTest.java OK
+UnitTestSessionAction 1288117235005 PrimeGenerationTest.java OK
+RefactoringAction 1288117249599 PrimeGenerationTest.java ADD void verifyGeneration(int, int METHOD
+EditAction 1288117249605 PrimeGenerationTest.java 1579 7 24 14
