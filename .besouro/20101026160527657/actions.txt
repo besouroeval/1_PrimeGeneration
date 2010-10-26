@@ -99,3 +99,7 @@ EditAction 1288117018626 PrimeGenerationTest.java 1126 5 17 12
 UnitTestCaseAction 1288117020718 PrimeGenerationTest.java FAIL
 UnitTestSessionAction 1288117020720 PrimeGenerationTest.java FAIL
 EditAction 1288117034419 PrimeGenerationTest.java 1174 5 18 13
+UnitTestCaseAction 1288117037431 PrimeGenerationTest.java OK
+UnitTestSessionAction 1288117037432 PrimeGenerationTest.java OK
+RefactoringAction 1288117046739 PrimeGenerationTest.java ADD void shouldGenerateUpTo5()/2 METHOD
+EditAction 1288117049901 PrimeGenerationTest.java 1457 6 23 17
