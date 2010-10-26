@@ -7,7 +7,7 @@ public class PrimeGenerator {
 		
 		ArrayList<Integer> primesList = new ArrayList<Integer>();
 		
-		for (int n=2; n<i ; n++) {
+		for (int n=2; n<=i ; n++) {
 			primesList.add(n);
 		}
 		
