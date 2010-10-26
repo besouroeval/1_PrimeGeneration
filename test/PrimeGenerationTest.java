@@ -51,9 +51,8 @@ public class PrimeGenerationTest {
 		
 		Integer[] primes = PrimeGenerator.generate(i);
 		Assert.assertEquals(expected.length, primes.length);
-		Assert.assertEquals(expected[0], primes[0].intValue());
-		Assert.assertEquals(expected[1], primes[1].intValue());
-		Assert.assertEquals(expected[2], primes[2].intValue());
+		for (int n = 0 ; n<i ; n++)
+			Assert.assertEquals(expected[n], primes[n].intValue());
 	}
 	
 }
