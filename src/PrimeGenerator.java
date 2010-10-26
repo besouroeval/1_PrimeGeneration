@@ -7,8 +7,8 @@ public class PrimeGenerator {
 		
 		ArrayList<Integer> primesList = new ArrayList<Integer>();
 		
-		while (i>1) {
-			primesList.add(2);
+		for (int n=2; n<i ; n++) {
+			primesList.add(n);
 		}
 		
 		return primesList.toArray(new Integer[primesList.size()]);
