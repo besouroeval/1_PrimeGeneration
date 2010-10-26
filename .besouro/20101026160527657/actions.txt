@@ -32,3 +32,7 @@ UnitTestSessionAction 1288116513844 PrimeGenerationTest.java FAIL
 EditAction 1288116549068 PrimeGenerator.java 127 1 2 0
 EditAction 1288116556639 PrimeGenerator.java 99 1 1 0
 EditAction 1288116570250 PrimeGenerator.java 134 1 2 0
+UnitTestCaseAction 1288116574338 PrimeGenerationTest.java OK
+UnitTestSessionAction 1288116574339 PrimeGenerationTest.java OK
+RefactoringAction 1288116593787 PrimeGenerator.java ADD import java.util.ArrayList IMPORT
+EditAction 1288116606921 PrimeGenerator.java 229 1 3 0
