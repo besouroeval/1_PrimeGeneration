@@ -20,10 +20,7 @@ public class PrimeGenerationTest {
 	
 	@Test
 	public void shouldGenerateUpTo3() {
-		Integer[] primes = PrimeGenerator.generate(3);
-		Assert.assertEquals(2, primes.length);
-		Assert.assertEquals(2, primes[0].intValue());
-		Assert.assertEquals(3, primes[1].intValue());
+		verifyGeneration(3, new int[]{2,3});
 	}
 	
 	@Test
