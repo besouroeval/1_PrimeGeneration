@@ -11,7 +11,7 @@ public class PrimeGenerator {
 			primesList.add(n);
 		}
 		
-		
+		primesList.remove(4);
 		
 		return primesList.toArray(new Integer[primesList.size()]);
 		
