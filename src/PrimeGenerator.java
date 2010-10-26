@@ -10,8 +10,7 @@ public class PrimeGenerator {
 		if (i>1)
 			primesList.add(2);
 		
-		Integer[] primes = new Integer[primesList.size()];
-		return primesList.toArray(primes);
+		return primesList.toArray(new Integer[primesList.size()]);
 	}
 
 }
