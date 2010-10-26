@@ -11,13 +11,7 @@ public class PrimeGenerator {
 			primesList.add(n);
 		}
 		
-		int n = primesList.get(0);
-		int mult = 1;
-		while(n<=i) {
-			n *= mult;
-			primesList.remove(new Integer(2*2));
-			
-		}
+		primesList.remove(new Integer(2*2));
 		primesList.remove(new Integer(3*2));
 		primesList.remove(new Integer(4*2));
 		primesList.remove(new Integer(3*3));
