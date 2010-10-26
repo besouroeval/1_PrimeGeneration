@@ -23,3 +23,5 @@ UnitTestCaseAction 1288116482027 PrimeGenerationTest.java OK
 UnitTestSessionAction 1288116482027 PrimeGenerationTest.java OK
 FileOpenedAction 1288116483266 PrimeGenerationTest.java 236 1 2 1
 EditAction 1288116488278 PrimeGenerationTest.java 230 1 2 1
+RefactoringAction 1288116491807 PrimeGenerationTest.java ADD void shouldGenerateUpTo1()/2 METHOD
+EditAction 1288116494628 PrimeGenerationTest.java 363 2 4 2
