@@ -46,9 +46,7 @@ public class PrimeGenerationTest {
 	@Test
 	public void shouldGenerateUpTo6() {
 		
-		int[] expected = new int[]{2,3,5};
-		
-		verifyGeneration(6, expected);
+		verifyGeneration(6, new int[]{2,3,5});
 	}
 
 	private void verifyGeneration(int i, int[] expected) {
