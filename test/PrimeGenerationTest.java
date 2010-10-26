@@ -47,12 +47,13 @@ public class PrimeGenerationTest {
 	public void shouldGenerateUpTo6() {
 		
 		int i = 6;
+		int[] expected = new int[]{2,3,5};
 		
 		Integer[] primes = PrimeGenerator.generate(i);
-		Assert.assertEquals(3, primes.length);
-		Assert.assertEquals(2, primes[0].intValue());
-		Assert.assertEquals(3, primes[1].intValue());
-		Assert.assertEquals(5, primes[2].intValue());
+		Assert.assertEquals(expected.length, primes.length);
+		Assert.assertEquals(expected[0], primes[0].intValue());
+		Assert.assertEquals(expected[1], primes[1].intValue());
+		Assert.assertEquals(expected[2], primes[2].intValue());
 	}
 	
 }
