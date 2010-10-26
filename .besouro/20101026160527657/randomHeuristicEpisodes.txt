@@ -7,4 +7,5 @@
 1288116992224 test-first 3 99 true
 1288116998224 refactoring 2A 2 true
 1288117004069 refactoring 2A 1 true
-1288117037432 test-addition 1 22 false
+1288117037432 test-addition 1 22 true
+1288117067102 test-first 3 20 true
