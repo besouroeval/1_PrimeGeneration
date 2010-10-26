@@ -45,7 +45,7 @@ public class PrimeGenerationTest {
 	
 	@Test
 	public void shouldGenerateUpTo6() {
-		Integer[] primes = PrimeGenerator.generate(5);
+		Integer[] primes = PrimeGenerator.generate(6);
 		Assert.assertEquals(3, primes.length);
 		Assert.assertEquals(2, primes[0].intValue());
 		Assert.assertEquals(3, primes[1].intValue());

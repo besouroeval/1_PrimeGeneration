@@ -103,3 +103,4 @@ UnitTestCaseAction 1288117037431 PrimeGenerationTest.java OK
 UnitTestSessionAction 1288117037432 PrimeGenerationTest.java OK
 RefactoringAction 1288117046739 PrimeGenerationTest.java ADD void shouldGenerateUpTo5()/2 METHOD
 EditAction 1288117049901 PrimeGenerationTest.java 1457 6 23 17
+EditAction 1288117052776 PrimeGenerationTest.java 1457 6 23 17
