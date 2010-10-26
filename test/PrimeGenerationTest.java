@@ -28,10 +28,7 @@ public class PrimeGenerationTest {
 	
 	@Test
 	public void shouldGenerateUpTo4() {
-		Integer[] primes = PrimeGenerator.generate(4);
-		Assert.assertEquals(2, primes.length);
-		Assert.assertEquals(2, primes[0].intValue());
-		Assert.assertEquals(3, primes[1].intValue());
+		verifyGeneration(4, new int[]{2,3});
 	}
 	
 	@Test
