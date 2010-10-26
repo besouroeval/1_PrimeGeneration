@@ -12,7 +12,7 @@ public class PrimeGenerator {
 		}
 		
 		for (int m=0; m<=i ; m++) {
-			for (int n=0; n<=i ; n++) {
+			for (int n=m; n<=i ; n++) {
 				
 			}
 		}
