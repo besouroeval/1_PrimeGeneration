@@ -13,9 +13,9 @@ public class PrimeGenerator {
 		
 		for (int m=0; m<=i ; m++) {
 			for (int n=m+1; n<=i ; n++) {
-				int first = primesList(m);
-				int seccond = primesList(m);
-				primesList.remove(new Integer(m*n));
+				int first = primesList.get(m);
+				int seccond = primesList.get(n);
+				primesList.remove(new Integer(first*seccond));
 			}
 		}
 		
