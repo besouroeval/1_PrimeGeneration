@@ -37,3 +37,17 @@ UnitTestSessionAction 1288116574339 PrimeGenerationTest.java OK
 RefactoringAction 1288116593787 PrimeGenerator.java ADD import java.util.ArrayList IMPORT
 EditAction 1288116606921 PrimeGenerator.java 229 1 3 0
 EditAction 1288116639714 PrimeGenerator.java 292 1 4 0
+CompilationAction 1288116640643 PrimeGenerator.java
+CompilationAction 1288116648445 PrimeGenerator.java
+CompilationAction 1288116648598 PrimeGenerator.java
+CompilationAction 1288116660512 PrimeGenerator.java
+CompilationAction 1288116660667 PrimeGenerator.java
+CompilationAction 1288116660668 PrimeGenerator.java
+CompilationAction 1288116665884 PrimeGenerator.java
+CompilationAction 1288116665884 PrimeGenerator.java
+CompilationAction 1288116666023 PrimeGenerator.java
+CompilationAction 1288116681832 PrimeGenerator.java
+CompilationAction 1288116681969 PrimeGenerationTest.java
+CompilationAction 1288116692177 PrimeGenerationTest.java
+CompilationAction 1288116692335 PrimeGenerationTest.java
+EditAction 1288116700045 PrimeGenerationTest.java 419 2 5 3

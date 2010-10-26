@@ -3,14 +3,14 @@ import java.util.ArrayList;
 
 public class PrimeGenerator {
 
-	public static int[] generate(int i) {
+	public static Integer[] generate(int i) {
 		
 		ArrayList<Integer> primesList = new ArrayList<Integer>();
 		
 		if (i>1)
-			return new int[]{2};
+			primesList.add(2);
 		
-		int[] primes = new int[primesList.size()];
+		Integer[] primes = new Integer[primesList.size()];
 		return primesList.toArray(primes);
 	}
 
