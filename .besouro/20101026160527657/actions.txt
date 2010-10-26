@@ -16,3 +16,6 @@ FileOpenedAction 1288116454298 PrimeGenerator.java 34 0 0 0
 FileOpenedAction 1288116458076 PrimeGenerator.java 34 0 0 0
 RefactoringAction 1288116458135 PrimeGenerator.java ADD static int METHOD
 EditAction 1288116459329 PrimeGenerator.java 129 1 1 0
+UnitTestCaseAction 1288116468240 PrimeGenerationTest.java FAIL
+UnitTestSessionAction 1288116468241 PrimeGenerationTest.java FAIL
+EditAction 1288116479788 PrimeGenerator.java 99 1 1 0
