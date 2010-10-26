@@ -26,3 +26,4 @@ EditAction 1288116488278 PrimeGenerationTest.java 230 1 2 1
 RefactoringAction 1288116491807 PrimeGenerationTest.java ADD void shouldGenerateUpTo1()/2 METHOD
 EditAction 1288116494628 PrimeGenerationTest.java 363 2 4 2
 EditAction 1288116498190 PrimeGenerationTest.java 363 2 4 2
+EditAction 1288116509917 PrimeGenerationTest.java 400 2 5 3
