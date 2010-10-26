@@ -26,4 +26,5 @@
 1288117431292 refactoring 2A 4 true
 1288117454259 test-first null 9 true
 1288117478303 refactoring null 3 true
-1288117618472 refactoring 2A 65 false
+1288117618472 refactoring 2A 65 true
+1288117756285 refactoring 2A 122 true
