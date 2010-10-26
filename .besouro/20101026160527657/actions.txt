@@ -154,3 +154,4 @@ RefactoringAction 1288117366072 PrimeGenerationTest.java REMOVE shouldGenerateUp
 RefactoringAction 1288117368083 PrimeGenerationTest.java REMOVE shouldGenerateUpTo5() METHOD
 RefactoringAction 1288117369106 PrimeGenerationTest.java REMOVE shouldGenerateUpTo6() METHOD
 EditAction 1288117370523 PrimeGenerationTest.java 644 2 9 1
+EditAction 1288117374999 PrimeGenerationTest.java 644 2 9 1

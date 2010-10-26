@@ -6,7 +6,7 @@ import org.junit.Test;
 public class PrimeGenerationTest {
 
 	@Test
-	public void shouldGenerateUpTo1() {
+	public void shouldGenerateUpToN() {
 		verifyGeneration(1, new int[]{});
 		verifyGeneration(2, new int[]{2});
 		verifyGeneration(3, new int[]{2,3});
