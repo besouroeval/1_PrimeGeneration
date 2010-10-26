@@ -12,9 +12,9 @@ public class PrimeGenerator {
 		}
 		
 		for (int n=2; n<=i ; n++) {
+			primesList.remove(new Integer(2*2));
 			
 		}
-		primesList.remove(new Integer(2*2));
 		primesList.remove(new Integer(3*2));
 		primesList.remove(new Integer(4*2));
 		primesList.remove(new Integer(3*3));
