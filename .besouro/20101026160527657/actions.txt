@@ -91,3 +91,8 @@ EditAction 1288116995825 PrimeGenerator.java 372 1 4 0
 UnitTestCaseAction 1288116998224 PrimeGenerationTest.java OK
 UnitTestSessionAction 1288116998224 PrimeGenerationTest.java OK
 EditAction 1288117002167 PrimeGenerator.java 339 1 4 0
+UnitTestCaseAction 1288117004069 PrimeGenerationTest.java OK
+UnitTestSessionAction 1288117004069 PrimeGenerationTest.java OK
+RefactoringAction 1288117014947 PrimeGenerationTest.java ADD void shouldGenerateUpTo4()/2 METHOD
+RefactoringAction 1288117017462 PrimeGenerationTest.java RENAME shouldGenerateUpTo4()/2=>void shouldGenerateUpTo5() METHOD
+EditAction 1288117018626 PrimeGenerationTest.java 1126 5 17 12
