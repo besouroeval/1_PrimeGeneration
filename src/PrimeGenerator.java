@@ -12,6 +12,9 @@ public class PrimeGenerator {
 		}
 		
 		for (int n=0; n<=i ; n++) {
+			for (int n=0; n<=i ; n++) {
+				
+			}
 			
 		}
 		
