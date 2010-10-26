@@ -13,7 +13,7 @@ public class PrimeGenerator {
 		
 		for (int m=0; m<=i ; m++) {
 			for (int n=m; n<=i ; n++) {
-				primesList.remove(new Integer(n*2));
+				primesList.remove(new Integer(m*n));
 			}
 		}
 		
