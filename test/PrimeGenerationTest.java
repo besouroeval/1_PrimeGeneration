@@ -17,4 +17,13 @@ public class PrimeGenerationTest {
 		Assert.assertEquals(1, primes.length);
 		Assert.assertEquals(2, primes[0].intValue());
 	}
+	
+	@Test
+	public void shouldGenerateUpTo3() {
+		Integer[] primes = PrimeGenerator.generate(3);
+		Assert.assertEquals(2, primes.length);
+		Assert.assertEquals(2, primes[0].intValue());
+		Assert.assertEquals(3, primes[1].intValue());
+	}
+	
 }
