@@ -11,7 +11,7 @@ public class PrimeGenerator {
 			primesList.add(n);
 		}
 		
-		for (int n=2; n*2<=i ; n++) {
+		for (int n=0; n<=i ; n++) {
 			
 		}
 		
