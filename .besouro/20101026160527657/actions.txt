@@ -161,3 +161,6 @@ EditAction 1288117386322 PrimeGenerationTest.java 687 2 10 1
 UnitTestCaseAction 1288117388503 PrimeGenerationTest.java OK
 UnitTestSessionAction 1288117388503 PrimeGenerationTest.java OK
 EditAction 1288117395351 PrimeGenerationTest.java 730 2 11 1
+UnitTestCaseAction 1288117397721 PrimeGenerationTest.java FAIL
+UnitTestSessionAction 1288117397722 PrimeGenerationTest.java FAIL
+EditAction 1288117404831 PrimeGenerator.java 417 1 6 0

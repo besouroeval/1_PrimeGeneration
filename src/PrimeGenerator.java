@@ -13,6 +13,7 @@ public class PrimeGenerator {
 		
 		primesList.remove(new Integer(2*2));
 		primesList.remove(new Integer(2*3));
+		primesList.remove(new Integer(8));
 		
 		return primesList.toArray(new Integer[primesList.size()]);
 		
